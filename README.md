@@ -12,7 +12,10 @@ Por lo que a través de la exploración, limpieza, análisis estadístico y visu
 
 <img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/08224a56-9bbd-4b75-bed1-d2bf2835140d" />
 
-<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/01cd7651-af4d-471d-8614-80cb61a585bf" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/4a726873-9cff-4c5b-947c-8172be6a06a2" />
+
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/f39eeff0-800b-42f5-9917-02bcad9bf8fd" />
+
 
 ## Link directo al dashboard publicado en Streamlit
 
