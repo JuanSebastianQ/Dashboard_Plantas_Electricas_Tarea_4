@@ -10,7 +10,7 @@ Por lo que a través de la exploración, limpieza, análisis estadístico y visu
 
 ## Captura de pantalla
 
-<img width="1917" height="1025" alt="image" src="https://github.com/user-attachments/assets/8fe8834c-b348-4f73-8e28-df62604575dd" />
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/08224a56-9bbd-4b75-bed1-d2bf2835140d" />
 
 <img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/01cd7651-af4d-471d-8614-80cb61a585bf" />
 
@@ -33,19 +33,28 @@ Dentro del EDA del Datasets fueron los siguentes:
 ## Instrucciones de instalación y ejecución local
 
 **1.** Descargar el proyecto desde GitHub.
+
 **2.** Abrir una terminal dentro de la carpeta del proyecto.
+
 **3.** Instalar las librerías que se encuentran en el archivo requirements.txt de la siguiente manera: pip install -r requirements.txt. o descárgalas individualmente como: streamlit, pandas, numpy, matplotlib, seaborn, y scipy.
+
 **4.** Ejecutar el dashboard mediante el comando 'python -m streamlit run app.py' en el terminal.
+
 **5.** Se abre en el navegador en http://localhost:8501.
 
 **Requisito:** 
 - Se requiere que se ejecute en Python 3.13 o 3.14.
+
 - Es importante que el archivo `global_power_plant_database.csv` esté en la misma carpeta que `app.py`.
 
 ## Sobre el autor:
 
 **Nombre:** Juan Sebastian Quiroga Alarcon
+
 **Curso:** Programación para el Análisis de Datos
+
 **Grupo:** 26
+
 **Universidad:** Universidad Nacional Abierta y a Distancia (UNAD)
+
 **Fecha:** 25 de Noviembre de 2026
