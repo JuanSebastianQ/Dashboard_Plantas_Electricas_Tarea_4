@@ -18,7 +18,7 @@ st.set_page_config(page_title="Plantas de Generación Eléctrica", layout="wide"
 # Se carga de datos de la base de datos de plantas
 @st.cache_data
 def cargar_datos():
-    df = pd.read_csv(r"C:\Users\SEBASTIAN\Desktop\UNAD\Primer periodo\Programacion para analisis de datos\Seccion 4\global_power_plant_database.csv",
+    df = pd.read_csv("global_power_plant_database.csv",
                      encoding = "latin-1")
     # Limpieza de coordenadas geograficas: latitud fuera de 90 o
     # longitud fuera de 180 no existen.
