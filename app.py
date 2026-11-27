@@ -162,3 +162,9 @@ st.subheader("¿Qué se recomendaría?")
 st.write("""Se recomienda profundizar en la comparación del desempeño de las diferentes fuentes energéticas, evaluar el crecimiento de las tecnologías renovables y analizar las diferencias 
          entre países en términos de capacidad instalada. Además, sería conveniente incorporar datos de generación real y factores de capacidad para evaluar la eficiencia de las plantas y 
          obtener conclusiones más precisas sobre su desempeño energético.""")
+
+st.subheader("Resultados Estadística - Ejercicio IA T4-C")
+st.write("""Se observa que las plantas con mayor capacidad presentan mayores valores de generación eléctrica estimada, ya que la relación encontrada es muy alta; 
+            Sin embargo, este resultado debe interpretarse con precaución, ya que la generación estimada fue calculada utilizando la capacidad instalada como uno de sus datos de entrada. 
+            Por tanto, esta relación era esperable y no constituye una evidencia independiente de que una mayor capacidad instalada garantice una mayor producción real de electricidad, 
+            por lo que para evaluar el desempeño de las plantas, se recomienda complementar este análisis con datos de generación real y disponibilidad operativa.""")
